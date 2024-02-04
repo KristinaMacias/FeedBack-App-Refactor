@@ -20,7 +20,7 @@ function Header({ text, bgColor, textColor }) {
 }
 // giving default props
 Header.defaultProps = {
-    text: 'Let Me Know How I\'m Doing!',
+    text: 'Feedback, Please!',
     bgColor: 'rgba(0,0,0,0.4)',
     textColor: '#ff6a95'
 }
